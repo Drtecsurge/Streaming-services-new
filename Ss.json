@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Netflix",
+    "id": "netflix-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Netflix/thumb.jpg"
+  },
+  {
+    "name": "HBO Max",
+    "id": "hbomax-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/HBO%20Max/thumb.jpg"
+  },
+  {
+    "name": "Max",
+    "id": "max-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://raw.githubusercontent.com/nacholibre2025/FusionFolder/c30e882c086c4350679bbe2071f6004fc0c40b30/image/max-logo.jpg"
+  },
+  {
+    "name": "Disney+",
+    "id": "disney-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Disney%2B/thumb.jpg"
+  },
+  {
+    "name": "Apple TV+",
+    "id": "appletv-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Apple%20TV%2B/thumb.jpg"
+  },
+  {
+    "name": "Hulu",
+    "id": "hulu-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Hulu/thumb.jpg"
+  },
+  {
+    "name": "SkyShowtime",
+    "id": "skyshowtime-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://raw.githubusercontent.com/nacholibre2025/FusionFolder/7120dcbb9689db4d4b239ef34e6eeb74db908545/image/Skyshowtime.png"
+  },
+  {
+    "name": "Paramount+",
+    "id": "paramount-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Paramount%2B/thumb.jpg"
+  },
+  {
+    "name": "Prime Video",
+    "id": "primevideo-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Amazon%20Prime%20Video/thumb.jpg"
+  },
+  {
+    "name": "JioHotstar",
+    "id": "jiohotstar-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://raw.githubusercontent.com/Drtecsurge/Streaming-services/4c9ead9bdb5b82f894c842582c4f7de8883c6f55/IMG_0153.png"
+  },
+  {
+    "name": "Zee5",
+    "id": "zee5-folder",
+    "display": {
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    "backgroundImage": "https://logowik.com/content/uploads/images/zee53067.jpg"
+  }
+]
